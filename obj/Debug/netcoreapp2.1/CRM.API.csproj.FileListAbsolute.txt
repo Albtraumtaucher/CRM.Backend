@@ -1,0 +1,14 @@
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.csprojAssemblyReference.cache
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.csproj.CoreCompileInputs.cache
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.RazorAssemblyInfo.cache
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.RazorAssemblyInfo.cs
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.AssemblyInfoInputs.cache
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.AssemblyInfo.cs
+C:\Users\Ian Buck\projects\CRM\CRM.API\bin\Debug\netcoreapp2.1\CRM.API.deps.json
+C:\Users\Ian Buck\projects\CRM\CRM.API\bin\Debug\netcoreapp2.1\CRM.API.runtimeconfig.json
+C:\Users\Ian Buck\projects\CRM\CRM.API\bin\Debug\netcoreapp2.1\CRM.API.runtimeconfig.dev.json
+C:\Users\Ian Buck\projects\CRM\CRM.API\bin\Debug\netcoreapp2.1\CRM.API.dll
+C:\Users\Ian Buck\projects\CRM\CRM.API\bin\Debug\netcoreapp2.1\CRM.API.pdb
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.RazorTargetAssemblyInfo.cache
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.dll
+C:\Users\Ian Buck\projects\CRM\CRM.API\obj\Debug\netcoreapp2.1\CRM.API.pdb
